@@ -3,10 +3,10 @@ ABI Project: Forecast of construction's total costruction cost and optimization 
 
 ## Authors
 
-Giovanni Sampaio
-João
-Cristina
-Alexandra
+*Giovanni Sampaio
+*João
+*Cristina
+*Alexandra
 
 ## License
 
